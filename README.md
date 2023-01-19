@@ -1,5 +1,6 @@
 ## Ola, me chamo Maria Alice 
-- Pronomes :  Ele/dela; Ela/dela
+- Atualmente estou no 3 periodo de TI 
+- Pronomes :  Ele/dele; Ela/dela
 <!--
 **Malicef/Malicef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
