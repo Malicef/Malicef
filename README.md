@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome, my name is Alice Ferreira 
-I'm a Back-end Developer
+## I'm a Back-end Developer
 
 <div>
   <a href="https://github.com/Malicef">
@@ -8,6 +8,7 @@ I'm a Back-end Developer
   </a>
 </div>
 
+## Estou aprendendo 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
            
 
